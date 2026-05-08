@@ -27,6 +27,9 @@ A curated list of AI tools specifically designed to assist in research activitie
 - **[ASReview Lab](https://asreview.nl/)**  
   Conduct systematic reviews by searching for and identifying the most relevant records.
 
+- **[BGPT MCP](https://github.com/connerlambden/bgpt-mcp)**  
+  MCP server for searching scientific papers with structured experimental data extracted from full-text studies.
+
 - **[Consensus](https://consensus.app/)**  
   A search engine that uses AI to extract findings directly from scientific research.
 
