@@ -62,10 +62,13 @@ A curated list of AI tools specifically designed to assist in research activitie
 
 ## Citation Management
 
-- **[Citation Gecko](https://citationgecko.azurewebsites.net/)**  
+- **[Citation Gecko](https://citationgecko.azurewebsites.net/)**
   Provides related papers based on citation networking.
 
-- **[CitNetExplorer](https://www.citnetexplorer.nl/)**  
+- **[CiteMe](https://citeme.app/)**
+  AI-powered citation generator that searches 8+ academic databases (OpenAlex, PubMed, Semantic Scholar, and more) and formats references in 40+ styles (APA, MLA, Chicago, ABNT, etc.). Includes browser extensions and Word/Google Docs add-ins.
+
+- **[CitNetExplorer](https://www.citnetexplorer.nl/)**
   Explore citation networks imported directly from the Web of Science database.
 
 - **[Paperpile](https://paperpile.com/)**  
