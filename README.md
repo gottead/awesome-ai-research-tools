@@ -1,162 +1,185 @@
-# Awesome AI Research Tools
+<div align="center">
 
-A curated list of AI tools specifically designed to assist in research activities, including tools for literature reviews, citation management, data analysis, and more. This repository is intended for researchers, students, and professionals who want to leverage AI to enhance their research workflows.
+# 🧠 Awesome AI Research Tools
 
-## Categories
+**A curated list of AI-powered tools for academic and scientific research — refreshed and link-verified for 2026.**
 
-- [Literature Review Tools](#literature-review-tools)
-- [Citation Management](#citation-management)
-- [Data Analysis Tools](#data-analysis-tools)
-- [Visualization Tools](#visualization-tools)
-- [Natural Language Processing Tools](#natural-language-processing-tools)
-- [Machine Learning Frameworks](#machine-learning-frameworks)
-- [Writing and Editing Tools](#writing-and-editing-tools)
-- [Miscellaneous Tools](#miscellaneous-tools)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
+[![Last commit](https://img.shields.io/github/last-commit/0x11c11e/awesome-ai-research-tools)](https://github.com/0x11c11e/awesome-ai-research-tools/commits)
+[![Stars](https://img.shields.io/github/stars/0x11c11e/awesome-ai-research-tools?style=social)](https://github.com/0x11c11e/awesome-ai-research-tools/stargazers)
 
-## Literature Review Tools
+</div>
 
-- **[2D Search](https://app.2dsearch.com/)**  
-  A radical alternative to conventional search, using a two-dimensional canvas for query formulation.
+---
 
-- **[AI Researcher](https://www.perlego.com/ai-researcher)**  
-  Delve into an extensive library of textbooks, pinpointing the most relevant works for your research query.
+> Tools to accelerate every stage of the research pipeline — discovery, reading, citation, analysis, writing, and dissemination.
+> Every link in this list was verified live in **May 2026**. Tools that went offline, pivoted away from research, or were superseded have been removed; URLs that moved have been updated to their current home.
 
-- **[Any Summary](https://www.anysummary.app/)**  
-  Summarize various file types, including audio, video, or URLs, into bullet points, quotes, or abstracts.
+## Contents
 
-- **[ASReview Lab](https://asreview.nl/)**  
-  Conduct systematic reviews by searching for and identifying the most relevant records.
+- [📚 Literature Review & Discovery](#literature-review--discovery)
+- [🤖 Research Agents](#research-agents)
+- [📖 Reading & Paper Q&A](#reading--paper-qa)
+- [🔗 Citation & Reference Management](#citation--reference-management)
+- [🕸️ Citation Networks & Visualization](#citation-networks--visualization)
+- [✍️ Writing & Editing](#writing--editing)
+- [📊 Data Analysis & Notebooks](#data-analysis--notebooks)
+- [🎙️ Transcription & Multimodal](#transcription--multimodal)
+- [🗄️ Open Datasets & APIs](#open-datasets--apis)
+- [🗒️ Notes & Knowledge Management](#notes--knowledge-management)
+- [🆕 Recently Added](#recently-added-may-2026)
+- [🤝 Contributing](#contributing)
+- [📜 License](#license)
 
-- **[BGPT MCP](https://github.com/connerlambden/bgpt-mcp)**  
-  MCP server for searching scientific papers with structured experimental data extracted from full-text studies.
+---
 
-- **[Consensus](https://consensus.app/)**  
-  A search engine that uses AI to extract findings directly from scientific research.
+## Literature Review & Discovery 📚
 
-- **[Dimensions AI](https://www.dimensions.ai/)**  
-  A database providing free access to over 100 million publications and preprints.
+Search engines, databases, and feeds for finding relevant work.
 
-- **[Elicit: The AI Research Assistant](https://elicit.org/)**  
-  Helps automate research workflows like literature reviews, summarization, and text classification.
+- **[2Dsearch](https://app.2dsearch.com/)** — Visual canvas-based Boolean query builder for systematic search.
+- **[Ai2 Asta](https://asta.allen.ai)** — Allen AI's agentic ecosystem for scholarly Q&A and evidence-grounded literature synthesis.
+- **[ASReview](https://asreview.nl/)** — Open-source AI-assisted screening for systematic reviews.
+- **[Consensus](https://consensus.app/)** — Search engine that extracts consensus answers directly from research papers.
+- **[Dimensions](https://www.dimensions.ai/)** — Scholarly research analytics database covering 164M+ publications.
+- **[Elicit](https://elicit.com/)** — AI research assistant that automates literature review, summarization, and data extraction.
+- **[Hugging Face Papers](https://huggingface.co/papers/trending)** — Daily trending machine-learning papers with linked code and discussion (replaces Papers With Code).
+- **[Keenious](https://keenious.com/)** — Suggests relevant papers from the document you are writing in Word or Docs.
+- **[Paperguide](https://paperguide.ai/)** — AI search across 200M papers with deep-research reports and reference management.
+- **[Perlego AI Researcher](https://www.perlego.com/ai-researcher)** — Smart Search over 1M+ academic textbooks.
+- **[R Discovery](https://discovery.researcher.life/)** — Personalized academic feed across 250M+ papers with AI summaries and translations.
+- **[Research Rabbit](https://app.researchrabbit.ai/)** — Citation-graph paper discovery with personalized email alerts.
+- **[Scite](https://scite.ai/)** — Smart Citations classifying 1.5B+ citations as supporting, contrasting, or mentioning.
+- **[Undermind](https://undermind.ai/)** — Iterative deep-search agent that finds relevant papers across millions of sources.
 
-- **[Keenious](https://keenious.com/?landing)**  
-  Analyzes articles and searches for similar articles to provide related research.
+## Research Agents 🤖
 
-- **[Lateral](https://www.lateral.io/)**  
-  Imports papers relevant to your topic and finds similar ones.
+Autonomous and semi-autonomous agents that plan, search, and synthesize.
 
-- **[Litmaps](https://www.litmaps.com/)**  
-  Uses citation searching to reveal new papers and creates a visual map of the literature.
+- **[BGPT MCP](https://github.com/connerlambden/bgpt-mcp)** — MCP server for searching scientific papers with structured experimental data extracted from full-text studies.
+- **[Edison Kosmos](https://www.edisonscientific.com/)** — Multi-agent platform (ex-FutureHouse) running parallel research tasks across literature and datasets.
+- **[Iris.ai](https://iris.ai/)** — Enterprise agentic RAG platform for ingesting and analyzing scientific documents.
+- **[PaperQA2](https://github.com/Future-House/paper-qa)** — Open-source RAG agent for high-accuracy Q&A over scientific PDFs with grounded citations.
+- **[Stanford STORM](https://github.com/stanford-oval/storm)** — LLM knowledge-curation system that researches a topic and writes a Wikipedia-style report with citations.
 
-- **[Open Knowledge Maps](https://openknowledgemaps.org/)**  
-  Creates a visualization in the form of a map based on the search term provided.
+## Reading & Paper Q&A 📖
 
-- **[Papers With Code](https://paperswithcode.com/)**  
-  Links papers with code and datasets, making the latest machine learning research more accessible.
+Chat with PDFs, summarize, and explain dense passages.
 
-- **[Research Rabbit](https://researchrabbitapp.com/)**  
-  Generates a paper flow of papers relevant to your research.
+- **[Adobe Acrobat AI Assistant](https://www.adobe.com/acrobat/online/ai-chat-pdf.html)** — In-PDF chat, summaries, and citation tracing inside Acrobat.
+- **[Anara](https://anara.com/)** — AI workspace for PDFs and lectures with source-linked citations (formerly Unriddle).
+- **[AskYourPDF](https://askyourpdf.com/)** — Chat with PDFs, with ChatGPT and Zotero integrations.
+- **[ChatPDF](https://www.chatpdf.com/)** — Chat with PDFs and other documents, with summary and writing add-ons.
+- **[docAnalyzer](https://docanalyzer.ai/)** — Multi-PDF question answering with cross-document comparison.
+- **[Explainpaper](https://www.explainpaper.com/)** — Highlight passages of a paper to get plain-language AI explanations.
+- **[Genei](https://www.genei.io/)** — AI summarization of PDFs and webpages with built-in citation management.
+- **[Humata](https://humata.ai/)** — Document Q&A across uploaded PDFs with traceable inline citations.
+- **[OpenRead](https://www.openread.academy/home)** — Reading platform with paper Q&A, related-paper graphs, and annotations.
+- **[Scholarcy](https://www.scholarcy.com/)** — Article summarizer that extracts key findings, references, and figures into structured cards.
+- **[SciSummary](https://scisummary.com/)** — Section-by-section AI summaries with figure interpretation and bulk processing.
 
-- **[Scite](https://scite.ai/)**  
-  Assesses the reliability of research by providing in-context citation analysis.
+## Citation & Reference Management 🔗
 
-## Citation Management
+Collect, organize, and format references.
 
-- **[Citation Gecko](https://citationgecko.azurewebsites.net/)**
-  Provides related papers based on citation networking.
+- **[ChatAcademia](https://www.chatacademia.com/)** — Multi-database academic search agent across arXiv, PubMed, and Scholar with citation tools.
+- **[CiteMe](https://citeme.app/)** — AI citation generator searching 8+ databases (OpenAlex, PubMed, Semantic Scholar) in 40+ styles, with Word/Docs add-ins.
+- **[Paperpile](https://paperpile.com/)** — Reference manager with native Google Docs and Word integration.
+- **[Sourcely](https://sourcely.net/)** — Paste text and find supporting academic sources, exporting in APA/MLA/Chicago/IEEE.
+- **[Zotero](https://www.zotero.org/)** — Open-source reference manager with web, desktop, and mobile clients.
 
-- **[CiteMe](https://citeme.app/)**
-  AI-powered citation generator that searches 8+ academic databases (OpenAlex, PubMed, Semantic Scholar, and more) and formats references in 40+ styles (APA, MLA, Chicago, ABNT, etc.). Includes browser extensions and Word/Google Docs add-ins.
+## Citation Networks & Visualization 🕸️
 
-- **[CitNetExplorer](https://www.citnetexplorer.nl/)**
-  Explore citation networks imported directly from the Web of Science database.
+Citation graphs, topic maps, and clustering.
 
-- **[Paperpile](https://paperpile.com/)**  
-  Helps manage academic papers by creating smart citations and bibliographies.
+- **[Carrot Search](https://carrotsearch.com/)** — Text clustering and visualization tools (Lingo, FoamTree) for organizing search results.
+- **[Citation Gecko](https://citationgecko.azurewebsites.net/)** — Citation-network seed-paper exploration for finding related work.
+- **[CitNetExplorer](https://www.citnetexplorer.nl/)** — Leiden University citation-network analysis software.
+- **[Connected Papers](https://www.connectedpapers.com/)** — Visual graph of related academic papers from a seed paper.
+- **[Inciteful](https://incitefulmed.com/academic/)** — Citation-graph exploration that surfaces key papers in any topic from a seed paper or query.
+- **[Lens.org](https://www.lens.org/)** — Integrated search and visualization across 200M+ scholarly works and global patent data.
+- **[Litmaps](https://www.litmaps.com/)** — Citation-network seed maps for literature discovery and ongoing monitoring.
+- **[Open Knowledge Maps](https://openknowledgemaps.org/)** — Nonprofit service producing visual topic maps from a search query.
 
-- **[Zotero](https://www.zotero.org/)**  
-  A reference manager that collects, organizes, and shares research, creating citations, and bibliographies.
+## Writing & Editing ✍️
 
-## Data Analysis Tools
+Drafting, language polishing, and formatting for academic writing.
 
-- **[Danswer](https://www.danswer.ai/)**  
-  Provides answers with source links to your files and allows persona creation for improved responses.
+- **[CAJAL](https://github.com/Agnuxo1/CAJAL)** — Local fine-tuned LLM (Qwen-based) for drafting IMRaD manuscripts offline, with arXiv/CrossRef citation validation.
+- **[Kvire](https://www.kvire.com/)** — AI peer-reviewer for academic drafts that flags logical fallacies, hedging, and missing citations with corpus-backed evidence.
+- **[SciSpace](https://scispace.com/)** — AI research assistant for literature review, paper formatting, and writing (formerly Typeset).
+- **[Wordvice AI](https://wordvice.ai/)** — Grammar, proofread, paraphrase, and summarize tools tuned for academic writing.
+- **[Writefull](https://writefull.com/)** — Academic writing and editing assistant with Word and Overleaf plugins.
 
-- **[DataSeer](https://dataseer.digital/?gclid=CjwKCAjw3POhBhBQEiwAqTCuBoYhvQ-7TZ-VWoElotwU0UzkZ-eCKixGy9U6ciaV6DCoAb6ZniCXDRoCAZoQAvD_BwE)**  
-  Automate the visualization of unstructured data trapped in 2D images.
+## Data Analysis & Notebooks 📊
 
-- **[docAnalyzer](https://docanalyzer.ai/)**  
-  Ask questions and receive precise answers in real-time from one or multiple PDFs.
+Tools for analyzing research data with AI assistance.
 
-## Visualization Tools
+- **[Hex](https://hex.tech/)** — Collaborative agentic notebooks with AI-assisted SQL, Python, and visualization.
+- **[Rows](https://rows.com/)** — AI-driven spreadsheet that acts as a data analyst for ad-hoc analysis and reporting.
 
-- **[Carrot Search](https://carrotsearch.com/)**  
-  Text clustering and visualization tools that organize search results into thematic groups.
+## Transcription & Multimodal 🎙️
 
-- **[Connected Papers](https://www.connectedpapers.com/)**  
-  A visualization tool to create a graphic chart of similar papers, visualizing trends.
+Speech-to-text, OCR, and audio/video understanding.
 
-- **[Inciteful](https://inciteful.xyz/)**  
-  Tools for paper discovery and literature connection visualization.
+- **[AssemblyAI](https://www.assemblyai.com/)** — Speech-to-text API with diarization, multilingual transcription, and audio understanding.
+- **[Deepgram](https://www.deepgram.com/)** — Speech-to-text and voice AI APIs including the multilingual Flux conversational model.
+- **[Mathpix](https://mathpix.com/)** — OCR for math, chemistry, tables, and handwriting; converts PDFs to LaTeX, Markdown, and DOCX.
+- **[Otter.ai](https://otter.ai/)** — Real-time meeting transcription with speaker recognition and chat over transcripts.
+- **[tl;dv](https://tldv.io/)** — Auto-joining notetaker for Zoom, Meet, and Teams with summaries in 30+ languages.
+- **[Transkriptor](https://transkriptor.com/)** — AI audio/video transcription in 100+ languages.
 
-- **[OpenRead](https://www.openread.academy/home)**  
-  Features tools for Paper Q&A, fast reading, comments, and annotations.
+## Open Datasets & APIs 🗄️
 
-## Natural Language Processing Tools
+Open scholarly graphs and corpora for builders and meta-researchers.
 
-- **[AskYourPDF](https://askyourpdf.com/)**  
-  Upload documents and chat with them to ask questions.
+- **[CORE](https://core.ac.uk/)** — World's largest open-access full-text corpus (449M papers) with search UI, API, and bulk datasets.
+- **[OpenAlex](https://openalex.org/)** — Free open scholarly index of 313M+ works with a fully open JSON API.
+- **[Semantic Scholar API](https://www.semanticscholar.org/product/api)** — Free academic-graph API covering 234M+ papers, citations, authors, and SPECTER2 embeddings.
 
-- **[ChatPDF](https://www.chatpdf.com/)**  
-  Upload a PDF to this tool to summarize and answer questions for free.
+## Notes & Knowledge Management 🗒️
 
-- **[Chat with PDF](https://chatwithpdf.ai/)**  
-  Summarize your documents and instantly answer questions with AI.
+Capture and query research notes, highlights, and team knowledge.
 
-- **[Explainpaper](https://www.explainpaper.com/)**  
-  Upload a paper, highlight confusing text, and receive an explanation.
+- **[Notion AI](https://www.notion.com/product/ai)** — In-Notion AI for summarizing notes, drafting, and querying research databases.
+- **[Onyx](https://www.onyx.app/)** — Open-source enterprise search and RAG over your team's knowledge (formerly Danswer).
+- **[Reflect](https://reflect.app/)** — Backlinked notes with AI for outlining, summaries, and voice transcription.
 
-- **[Genei](https://www.genei.io/)**  
-  Provides keyword extraction, semantic and query-based search, summarization of entire documents.
+---
 
-## Machine Learning Frameworks
+## Recently Added (May 2026) 🆕
 
-- **[Papers With Code](https://paperswithcode.com/)**  
-  Links papers with code and datasets, making the latest machine learning research more accessible.
+The most notable additions in this refresh:
 
-- **[Scopus: AI-Powered Database](https://www.elsevier.com/solutions/scopus?dgcid=CAMP_marketing_google_g_Scopus_ABM_Research_ENJ_MediaPage&gclid=CjwKCAjw3POhBhBQEiwAqTCuBkWw3Tdw9ohz_KB_XYZUZutFqPiQyWJrJ6bfjZuwqAvDJlxX9ZjC2hoCcAYQAvD_BwE)**  
-  Contains all peer-reviewed literature across disciplines and helps identify key trends.
+| Category | Highlights |
+|---|---|
+| Research agents | Stanford STORM, PaperQA2, Edison Kosmos, Undermind, Ai2 Asta, BGPT MCP |
+| Reading & Q&A | Anara, Humata, Scholarcy, SciSummary, Adobe Acrobat AI |
+| Citation & references | CiteMe, Sourcely, ChatAcademia |
+| Open data & APIs | OpenAlex, Semantic Scholar API, CORE, Lens.org |
+| Discovery | Paperguide, R Discovery |
+| Writing & critique | CAJAL (local IMRaD generation), Kvire (AI peer-review) |
+| Notes & knowledge | Onyx (ex-Danswer), Reflect, Notion AI |
 
-## Writing and Editing Tools
+Removed in this refresh: tools that went offline (AnySummary, ProDream, Synthesis.ai, Lateral) or pivoted away from research use cases (Bearly, Textero, DataSeer industrial). CoralAI was unreachable at audit time but may be transient — open an issue if you have current information. Several URLs were updated to current homes (Elicit, Research Rabbit, Inciteful, SciSpace, Hugging Face Papers, Onyx).
 
-- **[Textero](https://textero.io/)**  
-  An AI-powered tool for generating high-quality text based on input prompts, useful for research papers and content creation.
+---
 
-- **[SciSpace](https://chatgpt.com/g/g-NgAcklHd8-scispace)**  
-  A platform that helps researchers discover, create, and share content, simplifying the writing and publishing process.
+## Contributing 🤝
 
-- **[ProDream](https://prodream.ai/)**  
-  A writing assistant designed to enhance the clarity and effectiveness of your research papers.
+Contributions are very welcome — this list is only useful if it stays current.
 
-- **[Writefull](https://writefull.com/)**  
-  Provides language feedback and editing assistance tailored specifically for academic writing.
+When proposing a tool:
 
-- **[CoralAI](https://getcoralai.com/)**  
-  An AI-powered writing assistant that helps refine and polish academic content.
+1. Open an [issue](https://github.com/0x11c11e/awesome-ai-research-tools/issues) or PR with the tool name, URL, and a one-line factual description (under 18 words).
+2. The tool should be **alive**, **research-focused**, and **distinct** from what's already listed. General-purpose chatbots are out of scope.
+3. Place the tool in its most specific category, alphabetically.
+4. Avoid marketing language ("revolutionary", "powerful", "next-gen") — describe what it actually does.
 
-- **[Typeset](https://typeset.io/)**  
-  A platform to format and submit research papers to journals easily.
+Spotted a dead link or a tool that has pivoted? Open an issue and it'll be removed in the next sweep.
 
-- **[Wordvice AI](https://wordvice.ai/)**  
-  Offers AI-based proofreading and editing tools to improve the quality of your writing.
+## License 📜
 
-## Miscellaneous Tools
-
-- **[Bearly](https://bearly.ai/)**  
-  Interact with documents, transcribe audio and video, and generate meeting minutes.
-
-- **[Transkriptor](https://transkriptor.com/)**  
-  Automatic transcription of text from video, audio, or images.
-
-- **[Synthesis](https://www.synthesis.ai/)**  
-  Find scientific literature and extract information, offering custom notes and highlights.
+This list is released under the [GNU GPL v3](LICENSE). The individual tools listed remain the property of their respective owners.
