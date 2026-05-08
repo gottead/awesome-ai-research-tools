@@ -29,6 +29,7 @@
 - [🎙️ Transcription & Multimodal](#transcription--multimodal)
 - [🗄️ Open Datasets & APIs](#open-datasets--apis)
 - [🗒️ Notes & Knowledge Management](#notes--knowledge-management)
+- [🧭 Resources & Trackers](#resources--trackers)
 - [🆕 Recently Added](#recently-added-may-2026)
 - [🤝 Contributing](#contributing)
 - [📜 License](#license)
@@ -47,9 +48,12 @@ Search engines, databases, and feeds for finding relevant work.
 - **[Elicit](https://elicit.com/)** — AI research assistant that automates literature review, summarization, and data extraction.
 - **[Hugging Face Papers](https://huggingface.co/papers/trending)** — Daily trending machine-learning papers with linked code and discussion (replaces Papers With Code).
 - **[Keenious](https://keenious.com/)** — Suggests relevant papers from the document you are writing in Word or Docs.
+- **[Paper Digest](https://www.paperdigest.org/)** — Generates literature reviews, paper summaries, and daily research digests with per-sentence citations.
 - **[Paperguide](https://paperguide.ai/)** — AI search across 200M papers with deep-research reports and reference management.
 - **[Perlego AI Researcher](https://www.perlego.com/ai-researcher)** — Smart Search over 1M+ academic textbooks.
+- **[Perplexity](https://www.perplexity.ai/)** — AI answer engine with inline citations and a Deep Research mode for multi-step report generation.
 - **[R Discovery](https://discovery.researcher.life/)** — Personalized academic feed across 250M+ papers with AI summaries and translations.
+- **[ResearchBuddy](https://researchbuddy.app/)** — Automates literature reviews and briefing-paper creation by compiling and filtering research across sources.
 - **[Research Rabbit](https://app.researchrabbit.ai/)** — Citation-graph paper discovery with personalized email alerts.
 - **[Scite](https://scite.ai/)** — Smart Citations classifying 1.5B+ citations as supporting, contrasting, or mentioning.
 - **[Undermind](https://undermind.ai/)** — Iterative deep-search agent that finds relevant papers across millions of sources.
@@ -76,6 +80,7 @@ Chat with PDFs, summarize, and explain dense passages.
 - **[Explainpaper](https://www.explainpaper.com/)** — Highlight passages of a paper to get plain-language AI explanations.
 - **[Genei](https://www.genei.io/)** — AI summarization of PDFs and webpages with built-in citation management.
 - **[Humata](https://humata.ai/)** — Document Q&A across uploaded PDFs with traceable inline citations.
+- **[Logically](https://logically.app/)** — AI research assistant combining reference manager, document Q&A, and citation-backed writing (formerly Afforai).
 - **[OpenRead](https://www.openread.academy/home)** — Reading platform with paper Q&A, related-paper graphs, and annotations.
 - **[Scholarcy](https://www.scholarcy.com/)** — Article summarizer that extracts key findings, references, and figures into structured cards.
 - **[SciSummary](https://scisummary.com/)** — Section-by-section AI summaries with figure interpretation and bulk processing.
@@ -108,7 +113,9 @@ Citation graphs, topic maps, and clustering.
 Drafting, language polishing, and formatting for academic writing.
 
 - **[CAJAL](https://github.com/Agnuxo1/CAJAL)** — Local fine-tuned LLM (Qwen-based) for drafting IMRaD manuscripts offline, with arXiv/CrossRef citation validation.
+- **[Jenni AI](https://jenni.ai/)** — Academic writing assistant with autocomplete grounded in your imported papers and built-in citation generation.
 - **[Kvire](https://www.kvire.com/)** — AI peer-reviewer for academic drafts that flags logical fallacies, hedging, and missing citations with corpus-backed evidence.
+- **[Lex](https://lex.page/)** — AI-assisted document editor for collaborative writing with grounded suggestions and editing commands.
 - **[SciSpace](https://scispace.com/)** — AI research assistant for literature review, paper formatting, and writing (formerly Typeset).
 - **[Wordvice AI](https://wordvice.ai/)** — Grammar, proofread, paraphrase, and summarize tools tuned for academic writing.
 - **[Writefull](https://writefull.com/)** — Academic writing and editing assistant with Word and Overleaf plugins.
@@ -143,9 +150,18 @@ Open scholarly graphs and corpora for builders and meta-researchers.
 
 Capture and query research notes, highlights, and team knowledge.
 
+- **[NotebookLM](https://notebooklm.google.com/)** — Google's source-grounded notebook with chat, audio/video overviews, and reports anchored to user-uploaded sources.
 - **[Notion AI](https://www.notion.com/product/ai)** — In-Notion AI for summarizing notes, drafting, and querying research databases.
 - **[Onyx](https://www.onyx.app/)** — Open-source enterprise search and RAG over your team's knowledge (formerly Danswer).
 - **[Reflect](https://reflect.app/)** — Backlinked notes with AI for outlining, summaries, and voice transcription.
+
+## Resources & Trackers 🧭
+
+Curated guides and trackers cataloguing AI tools and methodologies for research.
+
+- **[Generative AI Product Tracker (Ithaka S+R)](https://sr.ithaka.org/our-work/generative-ai-product-tracker/)** — Living Airtable tracker of generative-AI products marketed to higher-ed teaching, learning, and research.
+- **[MIDAS Generative AI for Research Guide](https://midas.umich.edu/research/generative-ai-hub/generative-ai-for-research-guide/)** — University of Michigan curated guide to GenAI tools for literature search, analysis, and ideation.
+- **[Systematic Review Toolbox](https://systematicreviewtools.com/)** — Searchable catalogue of 235+ tools supporting systematic reviews and evidence synthesis.
 
 ---
 
@@ -155,15 +171,16 @@ The most notable additions in this refresh:
 
 | Category | Highlights |
 |---|---|
+| Discovery | Paperguide, Paper Digest, Perplexity, R Discovery, ResearchBuddy |
 | Research agents | Stanford STORM, PaperQA2, Edison Kosmos, Undermind, Ai2 Asta, BGPT MCP |
-| Reading & Q&A | Anara, Humata, Scholarcy, SciSummary, Adobe Acrobat AI |
+| Reading & Q&A | Anara, Humata, Logically (ex-Afforai), Scholarcy, SciSummary, Adobe Acrobat AI |
 | Citation & references | CiteMe, Sourcely, ChatAcademia |
 | Open data & APIs | OpenAlex, Semantic Scholar API, CORE, Lens.org |
-| Discovery | Paperguide, R Discovery |
-| Writing & critique | CAJAL (local IMRaD generation), Kvire (AI peer-review) |
-| Notes & knowledge | Onyx (ex-Danswer), Reflect, Notion AI |
+| Writing & critique | CAJAL (local IMRaD), Jenni AI, Kvire (AI peer-review), Lex |
+| Notes & knowledge | NotebookLM, Onyx (ex-Danswer), Reflect, Notion AI |
+| Resources & trackers | Ithaka S+R GenAI Tracker, MIDAS Guide, Systematic Review Toolbox |
 
-Removed in this refresh: tools that went offline (AnySummary, ProDream, Synthesis.ai, Lateral) or pivoted away from research use cases (Bearly, Textero, DataSeer industrial). CoralAI was unreachable at audit time but may be transient — open an issue if you have current information. Several URLs were updated to current homes (Elicit, Research Rabbit, Inciteful, SciSpace, Hugging Face Papers, Onyx).
+Removed in this refresh: tools that went offline (AnySummary, ProDream, Synthesis.ai, Lateral, Phind) or pivoted away from research use cases (Bearly, Textero, DataSeer industrial). CoralAI was unreachable at audit time but may be transient — open an issue if you have current information. Several URLs were updated to current homes (Elicit, Research Rabbit, Inciteful, SciSpace, Hugging Face Papers, Onyx).
 
 ---
 
