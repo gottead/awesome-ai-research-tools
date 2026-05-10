@@ -38,6 +38,8 @@
 
 ## Literature Review & Discovery 📚
 
+- **[Suppr](https://suppr.wilddata.cn/)** ? AI literature search, document translation, and deep-research workspace for researchers, with PubMed/OpenAlex search and Zotero plugin workflow.
+
 Search engines, databases, and feeds for finding relevant work.
 
 - **[2Dsearch](https://app.2dsearch.com/)** — Visual canvas-based Boolean query builder for systematic search.
