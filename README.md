@@ -38,8 +38,6 @@
 
 ## Literature Review & Discovery 📚
 
-- **[Suppr](https://suppr.wilddata.cn/)** ? AI literature search, document translation, and deep-research workspace for researchers, with PubMed/OpenAlex search and Zotero plugin workflow.
-
 Search engines, databases, and feeds for finding relevant work.
 
 - **[2Dsearch](https://app.2dsearch.com/)** — Visual canvas-based Boolean query builder for systematic search.
@@ -58,6 +56,7 @@ Search engines, databases, and feeds for finding relevant work.
 - **[ResearchBuddy](https://researchbuddy.app/)** — Automates literature reviews and briefing-paper creation by compiling and filtering research across sources.
 - **[Research Rabbit](https://app.researchrabbit.ai/)** — Citation-graph paper discovery with personalized email alerts.
 - **[Scite](https://scite.ai/)** — Smart Citations classifying 1.5B+ citations as supporting, contrasting, or mentioning.
+- **[Suppr](https://suppr.wilddata.cn/)** — Chinese-language AI literature workspace with PubMed search, paper translation, deep-research summaries, and a Zotero plugin.
 - **[Undermind](https://undermind.ai/)** — Iterative deep-search agent that finds relevant papers across millions of sources.
 
 ## Research Agents 🤖
