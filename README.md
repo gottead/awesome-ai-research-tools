@@ -118,6 +118,7 @@ Drafting, language polishing, and formatting for academic writing.
 - **[Jenni AI](https://jenni.ai/)** — Academic writing assistant with autocomplete grounded in your imported papers and built-in citation generation.
 - **[Kvire](https://www.kvire.com/)** — AI peer-reviewer for academic drafts that flags logical fallacies, hedging, and missing citations with corpus-backed evidence.
 - **[Lex](https://lex.page/)** — AI-assisted document editor for collaborative writing with grounded suggestions and editing commands.
+- **[PaperClaw](https://marketplace.visualstudio.com/items?itemName=agnuxo1.paperclaw)** — VS Code extension that drafts IMRaD manuscripts locally via Ollama with Semantic Scholar–cross-referenced citations and LaTeX export.
 - **[SciSpace](https://scispace.com/)** — AI research assistant for literature review, paper formatting, and writing (formerly Typeset).
 - **[Wordvice AI](https://wordvice.ai/)** — Grammar, proofread, paraphrase, and summarize tools tuned for academic writing.
 - **[Writefull](https://writefull.com/)** — Academic writing and editing assistant with Word and Overleaf plugins.
@@ -178,7 +179,7 @@ The most notable additions in this refresh:
 | Reading & Q&A | Anara, Humata, Logically (ex-Afforai), Scholarcy, SciSummary, Adobe Acrobat AI |
 | Citation & references | CiteMe, Sourcely, ChatAcademia |
 | Open data & APIs | OpenAlex, Semantic Scholar API, CORE, Lens.org |
-| Writing & critique | CAJAL (local IMRaD), Jenni AI, Kvire (AI peer-review), Lex |
+| Writing & critique | CAJAL (local IMRaD), Jenni AI, Kvire (AI peer-review), Lex, PaperClaw (VS Code) |
 | Notes & knowledge | NotebookLM, Onyx (ex-Danswer), Reflect, Notion AI |
 | Resources & trackers | Ithaka S+R GenAI Tracker, MIDAS Guide, Systematic Review Toolbox |
 
