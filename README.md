@@ -1,14 +1,8 @@
 <div align="center">
 
-# <img src="assets/icons/ai.svg" width="28" height="28" alt=""> Awesome AI Research Tools
+# Awesome AI Research Tools
 
 **A curated list of AI-powered tools for academic and scientific research — refreshed and link-verified for 2026.**
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
-[![Last commit](https://img.shields.io/github/last-commit/0x11c11e/awesome-ai-research-tools)](https://github.com/0x11c11e/awesome-ai-research-tools/commits)
-[![Stars](https://img.shields.io/github/stars/0x11c11e/awesome-ai-research-tools?style=social)](https://github.com/0x11c11e/awesome-ai-research-tools/stargazers)
 
 </div>
 
@@ -19,26 +13,26 @@
 
 ## Contents
 
-- <a href="#literature-review--discovery"><img src="assets/icons/discovery.svg" width="16" height="16" alt=""> Literature Review & Discovery</a>
-- <a href="#research-agents"><img src="assets/icons/agents.svg" width="16" height="16" alt=""> Research Agents</a>
-- <a href="#reading--paper-qa"><img src="assets/icons/reading.svg" width="16" height="16" alt=""> Reading & Paper Q&A</a>
-- <a href="#citation--reference-management"><img src="assets/icons/citation.svg" width="16" height="16" alt=""> Citation & Reference Management</a>
-- <a href="#citation-networks--visualization"><img src="assets/icons/graph.svg" width="16" height="16" alt=""> Citation Networks & Visualization</a>
-- <a href="#writing--editing"><img src="assets/icons/writing.svg" width="16" height="16" alt=""> Writing & Editing</a>
-- <a href="#data-analysis--notebooks"><img src="assets/icons/data.svg" width="16" height="16" alt=""> Data Analysis & Notebooks</a>
-- <a href="#transcription--multimodal"><img src="assets/icons/media.svg" width="16" height="16" alt=""> Transcription & Multimodal</a>
-- <a href="#open-datasets--apis"><img src="assets/icons/api.svg" width="16" height="16" alt=""> Open Datasets & APIs</a>
-- <a href="#notes--knowledge-management"><img src="assets/icons/notes.svg" width="16" height="16" alt=""> Notes & Knowledge Management</a>
-- <a href="#resources--trackers"><img src="assets/icons/guides.svg" width="16" height="16" alt=""> Resources & Trackers</a>
-- <a href="#recently-added-may-2026"><img src="assets/icons/new.svg" width="16" height="16" alt=""> Recently Added</a>
-- <a href="#contributing"><img src="assets/icons/contributing.svg" width="16" height="16" alt=""> Contributing</a>
-- <a href="#license"><img src="assets/icons/license.svg" width="16" height="16" alt=""> License</a>
+- [Literature Review & Discovery](#literature-review--discovery)
+- [Research Agents](#research-agents)
+- [Reading & Paper Q&A](#reading--paper-qa)
+- [Citation & Reference Management](#citation--reference-management)
+- [Citation Networks & Visualization](#citation-networks--visualization)
+- [Writing & Editing](#writing--editing)
+- [Data Analysis & Notebooks](#data-analysis--notebooks)
+- [Transcription & Multimodal](#transcription--multimodal)
+- [Open Datasets & APIs](#open-datasets--apis)
+- [Notes & Knowledge Management](#notes--knowledge-management)
+- [Resources & Trackers](#resources--trackers)
+- [Recently Added](#recently-added-may-2026)
+- [Contributing](#contributing)
+- [License](#license)
 
 ---
 
 <a id="literature-review--discovery"></a>
 
-## <img src="assets/icons/discovery.svg" width="22" height="22" alt=""> Literature Review & Discovery
+## Literature Review & Discovery
 
 Search engines, databases, and feeds for finding relevant work.
 
@@ -64,7 +58,7 @@ Search engines, databases, and feeds for finding relevant work.
 
 <a id="research-agents"></a>
 
-## <img src="assets/icons/agents.svg" width="22" height="22" alt=""> Research Agents
+## Research Agents
 
 Autonomous and semi-autonomous agents that plan, search, and synthesize.
 
@@ -76,7 +70,7 @@ Autonomous and semi-autonomous agents that plan, search, and synthesize.
 
 <a id="reading--paper-qa"></a>
 
-## <img src="assets/icons/reading.svg" width="22" height="22" alt=""> Reading & Paper Q&A
+## Reading & Paper Q&A
 
 Chat with PDFs, summarize, and explain dense passages.
 
@@ -95,7 +89,7 @@ Chat with PDFs, summarize, and explain dense passages.
 
 <a id="citation--reference-management"></a>
 
-## <img src="assets/icons/citation.svg" width="22" height="22" alt=""> Citation & Reference Management
+## Citation & Reference Management
 
 Collect, organize, and format references.
 
@@ -107,7 +101,7 @@ Collect, organize, and format references.
 
 <a id="citation-networks--visualization"></a>
 
-## <img src="assets/icons/graph.svg" width="22" height="22" alt=""> Citation Networks & Visualization
+## Citation Networks & Visualization
 
 Citation graphs, topic maps, and clustering.
 
@@ -122,7 +116,7 @@ Citation graphs, topic maps, and clustering.
 
 <a id="writing--editing"></a>
 
-## <img src="assets/icons/writing.svg" width="22" height="22" alt=""> Writing & Editing
+## Writing & Editing
 
 Drafting, language polishing, and formatting for academic writing.
 
@@ -138,7 +132,7 @@ Drafting, language polishing, and formatting for academic writing.
 
 <a id="data-analysis--notebooks"></a>
 
-## <img src="assets/icons/data.svg" width="22" height="22" alt=""> Data Analysis & Notebooks
+## Data Analysis & Notebooks
 
 Tools for analyzing research data with AI assistance.
 
@@ -147,7 +141,7 @@ Tools for analyzing research data with AI assistance.
 
 <a id="transcription--multimodal"></a>
 
-## <img src="assets/icons/media.svg" width="22" height="22" alt=""> Transcription & Multimodal
+## Transcription & Multimodal
 
 Speech-to-text, OCR, and audio/video understanding.
 
@@ -160,7 +154,7 @@ Speech-to-text, OCR, and audio/video understanding.
 
 <a id="open-datasets--apis"></a>
 
-## <img src="assets/icons/api.svg" width="22" height="22" alt=""> Open Datasets & APIs
+## Open Datasets & APIs
 
 Open scholarly graphs and corpora for builders and meta-researchers.
 
@@ -170,7 +164,7 @@ Open scholarly graphs and corpora for builders and meta-researchers.
 
 <a id="notes--knowledge-management"></a>
 
-## <img src="assets/icons/notes.svg" width="22" height="22" alt=""> Notes & Knowledge Management
+## Notes & Knowledge Management
 
 Capture and query research notes, highlights, and team knowledge.
 
@@ -181,7 +175,7 @@ Capture and query research notes, highlights, and team knowledge.
 
 <a id="resources--trackers"></a>
 
-## <img src="assets/icons/guides.svg" width="22" height="22" alt=""> Resources & Trackers
+## Resources & Trackers
 
 Curated guides and trackers cataloguing AI tools and methodologies for research.
 
@@ -193,7 +187,7 @@ Curated guides and trackers cataloguing AI tools and methodologies for research.
 
 <a id="recently-added-may-2026"></a>
 
-## <img src="assets/icons/new.svg" width="22" height="22" alt=""> Recently Added (May 2026)
+## Recently Added (May 2026)
 
 The most notable additions in this refresh:
 
@@ -214,7 +208,7 @@ Removed in this refresh: tools that went offline (AnySummary, ProDream, Synthesi
 
 <a id="contributing"></a>
 
-## <img src="assets/icons/contributing.svg" width="22" height="22" alt=""> Contributing
+## Contributing
 
 Contributions are very welcome — this list is only useful if it stays current.
 
@@ -229,6 +223,6 @@ Spotted a dead link or a tool that has pivoted? Open an issue and it'll be remov
 
 <a id="license"></a>
 
-## <img src="assets/icons/license.svg" width="22" height="22" alt=""> License
+## License
 
 This list is released under the [GNU GPL v3](LICENSE). The individual tools listed remain the property of their respective owners.
