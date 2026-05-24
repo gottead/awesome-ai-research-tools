@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧠 Awesome AI Research Tools
+# :brain: Awesome AI Research Tools
 
 **A curated list of AI-powered tools for academic and scientific research — refreshed and link-verified for 2026.**
 
@@ -19,24 +19,26 @@
 
 ## Contents
 
-- [📚 Literature Review & Discovery](#literature-review--discovery)
-- [🤖 Research Agents](#research-agents)
-- [📖 Reading & Paper Q&A](#reading--paper-qa)
-- [🔗 Citation & Reference Management](#citation--reference-management)
-- [🕸️ Citation Networks & Visualization](#citation-networks--visualization)
-- [✍️ Writing & Editing](#writing--editing)
-- [📊 Data Analysis & Notebooks](#data-analysis--notebooks)
-- [🎙️ Transcription & Multimodal](#transcription--multimodal)
-- [🗄️ Open Datasets & APIs](#open-datasets--apis)
-- [🗒️ Notes & Knowledge Management](#notes--knowledge-management)
-- [🧭 Resources & Trackers](#resources--trackers)
-- [🆕 Recently Added](#recently-added-may-2026)
-- [🤝 Contributing](#contributing)
-- [📜 License](#license)
+- [:mag: Literature Review & Discovery](#literature-review--discovery)
+- [:robot: Research Agents](#research-agents)
+- [:book: Reading & Paper Q&A](#reading--paper-qa)
+- [:link: Citation & Reference Management](#citation--reference-management)
+- [:spider_web: Citation Networks & Visualization](#citation-networks--visualization)
+- [:pencil2: Writing & Editing](#writing--editing)
+- [:bar_chart: Data Analysis & Notebooks](#data-analysis--notebooks)
+- [:studio_microphone: Transcription & Multimodal](#transcription--multimodal)
+- [:file_cabinet: Open Datasets & APIs](#open-datasets--apis)
+- [:memo: Notes & Knowledge Management](#notes--knowledge-management)
+- [:compass: Resources & Trackers](#resources--trackers)
+- [:new: Recently Added](#recently-added-may-2026)
+- [:handshake: Contributing](#contributing)
+- [:scroll: License](#license)
 
 ---
 
-<h2 id="literature-review--discovery">Literature Review & Discovery 📚</h2>
+<a id="literature-review--discovery"></a>
+
+## :mag: Literature Review & Discovery
 
 Search engines, databases, and feeds for finding relevant work.
 
@@ -59,7 +61,9 @@ Search engines, databases, and feeds for finding relevant work.
 - **[Suppr](https://suppr.wilddata.cn/)** — Chinese-language AI literature workspace with PubMed search, paper translation, deep-research summaries, and a Zotero plugin.
 - **[Undermind](https://undermind.ai/)** — Iterative deep-search agent that finds relevant papers across millions of sources.
 
-<h2 id="research-agents">Research Agents 🤖</h2>
+<a id="research-agents"></a>
+
+## :robot: Research Agents
 
 Autonomous and semi-autonomous agents that plan, search, and synthesize.
 
@@ -69,7 +73,9 @@ Autonomous and semi-autonomous agents that plan, search, and synthesize.
 - **[PaperQA2](https://github.com/Future-House/paper-qa)** — Open-source RAG agent for high-accuracy Q&A over scientific PDFs with grounded citations.
 - **[Stanford STORM](https://github.com/stanford-oval/storm)** — LLM knowledge-curation system that researches a topic and writes a Wikipedia-style report with citations.
 
-<h2 id="reading--paper-qa">Reading & Paper Q&A 📖</h2>
+<a id="reading--paper-qa"></a>
+
+## :book: Reading & Paper Q&A
 
 Chat with PDFs, summarize, and explain dense passages.
 
@@ -86,7 +92,9 @@ Chat with PDFs, summarize, and explain dense passages.
 - **[Scholarcy](https://www.scholarcy.com/)** — Article summarizer that extracts key findings, references, and figures into structured cards.
 - **[SciSummary](https://scisummary.com/)** — Section-by-section AI summaries with figure interpretation and bulk processing.
 
-<h2 id="citation--reference-management">Citation & Reference Management 🔗</h2>
+<a id="citation--reference-management"></a>
+
+## :link: Citation & Reference Management
 
 Collect, organize, and format references.
 
@@ -96,7 +104,9 @@ Collect, organize, and format references.
 - **[Sourcely](https://sourcely.net/)** — Paste text and find supporting academic sources, exporting in APA/MLA/Chicago/IEEE.
 - **[Zotero](https://www.zotero.org/)** — Open-source reference manager with web, desktop, and mobile clients.
 
-<h2 id="citation-networks--visualization">Citation Networks & Visualization 🕸️</h2>
+<a id="citation-networks--visualization"></a>
+
+## :spider_web: Citation Networks & Visualization
 
 Citation graphs, topic maps, and clustering.
 
@@ -109,7 +119,9 @@ Citation graphs, topic maps, and clustering.
 - **[Litmaps](https://www.litmaps.com/)** — Citation-network seed maps for literature discovery and ongoing monitoring.
 - **[Open Knowledge Maps](https://openknowledgemaps.org/)** — Nonprofit service producing visual topic maps from a search query.
 
-<h2 id="writing--editing">Writing & Editing ✍️</h2>
+<a id="writing--editing"></a>
+
+## :pencil2: Writing & Editing
 
 Drafting, language polishing, and formatting for academic writing.
 
@@ -122,14 +134,18 @@ Drafting, language polishing, and formatting for academic writing.
 - **[Wordvice AI](https://wordvice.ai/)** — Grammar, proofread, paraphrase, and summarize tools tuned for academic writing.
 - **[Writefull](https://writefull.com/)** — Academic writing and editing assistant with Word and Overleaf plugins.
 
-<h2 id="data-analysis--notebooks">Data Analysis & Notebooks 📊</h2>
+<a id="data-analysis--notebooks"></a>
+
+## :bar_chart: Data Analysis & Notebooks
 
 Tools for analyzing research data with AI assistance.
 
 - **[Hex](https://hex.tech/)** — Collaborative agentic notebooks with AI-assisted SQL, Python, and visualization.
 - **[Rows](https://rows.com/)** — AI-driven spreadsheet that acts as a data analyst for ad-hoc analysis and reporting.
 
-<h2 id="transcription--multimodal">Transcription & Multimodal 🎙️</h2>
+<a id="transcription--multimodal"></a>
+
+## :studio_microphone: Transcription & Multimodal
 
 Speech-to-text, OCR, and audio/video understanding.
 
@@ -140,7 +156,9 @@ Speech-to-text, OCR, and audio/video understanding.
 - **[tl;dv](https://tldv.io/)** — Auto-joining notetaker for Zoom, Meet, and Teams with summaries in 30+ languages.
 - **[Transkriptor](https://transkriptor.com/)** — AI audio/video transcription in 100+ languages.
 
-<h2 id="open-datasets--apis">Open Datasets & APIs 🗄️</h2>
+<a id="open-datasets--apis"></a>
+
+## :file_cabinet: Open Datasets & APIs
 
 Open scholarly graphs and corpora for builders and meta-researchers.
 
@@ -148,7 +166,9 @@ Open scholarly graphs and corpora for builders and meta-researchers.
 - **[OpenAlex](https://openalex.org/)** — Free open scholarly index of 313M+ works with a fully open JSON API.
 - **[Semantic Scholar API](https://www.semanticscholar.org/product/api)** — Free academic-graph API covering 234M+ papers, citations, authors, and SPECTER2 embeddings.
 
-<h2 id="notes--knowledge-management">Notes & Knowledge Management 🗒️</h2>
+<a id="notes--knowledge-management"></a>
+
+## :memo: Notes & Knowledge Management
 
 Capture and query research notes, highlights, and team knowledge.
 
@@ -157,7 +177,9 @@ Capture and query research notes, highlights, and team knowledge.
 - **[Onyx](https://www.onyx.app/)** — Open-source enterprise search and RAG over your team's knowledge (formerly Danswer).
 - **[Reflect](https://reflect.app/)** — Backlinked notes with AI for outlining, summaries, and voice transcription.
 
-<h2 id="resources--trackers">Resources & Trackers 🧭</h2>
+<a id="resources--trackers"></a>
+
+## :compass: Resources & Trackers
 
 Curated guides and trackers cataloguing AI tools and methodologies for research.
 
@@ -167,7 +189,9 @@ Curated guides and trackers cataloguing AI tools and methodologies for research.
 
 ---
 
-<h2 id="recently-added-may-2026">Recently Added (May 2026) 🆕</h2>
+<a id="recently-added-may-2026"></a>
+
+## :new: Recently Added (May 2026)
 
 The most notable additions in this refresh:
 
@@ -186,7 +210,9 @@ Removed in this refresh: tools that went offline (AnySummary, ProDream, Synthesi
 
 ---
 
-<h2 id="contributing">Contributing 🤝</h2>
+<a id="contributing"></a>
+
+## :handshake: Contributing
 
 Contributions are very welcome — this list is only useful if it stays current.
 
@@ -199,6 +225,8 @@ When proposing a tool:
 
 Spotted a dead link or a tool that has pivoted? Open an issue and it'll be removed in the next sweep.
 
-<h2 id="license">License 📜</h2>
+<a id="license"></a>
+
+## :scroll: License
 
 This list is released under the [GNU GPL v3](LICENSE). The individual tools listed remain the property of their respective owners.
