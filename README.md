@@ -58,6 +58,7 @@ Search engines, databases, and feeds for finding relevant work.
 - **[ResearchBuddy](https://researchbuddy.app/)** — Automates literature reviews and briefing-paper creation by compiling and filtering research across sources.
 - **[Research Rabbit](https://app.researchrabbit.ai/)** — Citation-graph paper discovery with personalized email alerts.
 - **[Scite](https://scite.ai/)** — Smart Citations classifying 1.5B+ citations as supporting, contrasting, or mentioning.
+- **[Semantic Scholar](https://www.semanticscholar.org/)** — Free AI-powered academic search with TLDR summaries, citation context, libraries, and recommendation feeds.
 - **[Suppr](https://suppr.wilddata.cn/)** — Chinese-language AI literature workspace with PubMed search, paper translation, deep-research summaries, and a Zotero plugin.
 - **[Undermind](https://undermind.ai/)** — Iterative deep-search agent that finds relevant papers across millions of sources.
 
@@ -130,6 +131,7 @@ Drafting, language polishing, and formatting for academic writing.
 - **[Kvire](https://www.kvire.com/)** — AI peer-reviewer for academic drafts that flags logical fallacies, hedging, and missing citations with corpus-backed evidence.
 - **[Lex](https://lex.page/)** — AI-assisted document editor for collaborative writing with grounded suggestions and editing commands.
 - **[PaperClaw](https://marketplace.visualstudio.com/items?itemName=agnuxo1.paperclaw)** — VS Code extension that drafts IMRaD manuscripts locally via Ollama with Semantic Scholar–cross-referenced citations and LaTeX export.
+- **[Prism](https://openai.com/prism/)** — Free AI-native LaTeX workspace for scientific writing, collaboration, literature search, and citation support.
 - **[SciSpace](https://scispace.com/)** — AI research assistant for literature review, paper formatting, and writing (formerly Typeset).
 - **[Wordvice AI](https://wordvice.ai/)** — Grammar, proofread, paraphrase, and summarize tools tuned for academic writing.
 - **[Writefull](https://writefull.com/)** — Academic writing and editing assistant with Word and Overleaf plugins.
@@ -197,12 +199,12 @@ The most notable additions in this refresh:
 
 | Category | Highlights |
 |---|---|
-| Discovery | Paperguide, Paper Digest, Perplexity, R Discovery, ResearchBuddy |
+| Discovery | Paperguide, Paper Digest, Perplexity, R Discovery, ResearchBuddy, Semantic Scholar |
 | Research agents | Stanford STORM, PaperQA2, Edison Kosmos, Undermind, Ai2 Asta, BGPT MCP |
 | Reading & Q&A | Anara, Humata, Logically (ex-Afforai), Scholarcy, SciSummary, Adobe Acrobat AI |
 | Citation & references | CiteMe, Sourcely, ChatAcademia |
 | Open data & APIs | OpenAlex, Semantic Scholar API, CORE, Lens.org |
-| Writing & critique | CAJAL (local IMRaD), Jenni AI, Kvire (AI peer-review), Lex, PaperClaw (VS Code) |
+| Writing & critique | CAJAL (local IMRaD), Jenni AI, Kvire (AI peer-review), Lex, PaperClaw (VS Code), Prism |
 | Notes & knowledge | NotebookLM, Onyx (ex-Danswer), Reflect, Notion AI |
 | Resources & trackers | Ithaka S+R GenAI Tracker, MIDAS Guide, Systematic Review Toolbox |
 
