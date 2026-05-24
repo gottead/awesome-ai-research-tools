@@ -1,0 +1,27 @@
+name: Link check
+
+on:
+  pull_request:
+    paths:
+      - README.md
+      - .lychee.toml
+      - .github/workflows/link-check.yml
+  schedule:
+    - cron: "17 9 1 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  lychee:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Check README links
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: --config .lychee.toml README.md
+          fail: true

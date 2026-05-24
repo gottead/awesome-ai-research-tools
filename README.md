@@ -36,7 +36,7 @@
 
 ---
 
-## Literature Review & Discovery 📚
+<h2 id="literature-review--discovery">Literature Review & Discovery 📚</h2>
 
 Search engines, databases, and feeds for finding relevant work.
 
@@ -59,7 +59,7 @@ Search engines, databases, and feeds for finding relevant work.
 - **[Suppr](https://suppr.wilddata.cn/)** — Chinese-language AI literature workspace with PubMed search, paper translation, deep-research summaries, and a Zotero plugin.
 - **[Undermind](https://undermind.ai/)** — Iterative deep-search agent that finds relevant papers across millions of sources.
 
-## Research Agents 🤖
+<h2 id="research-agents">Research Agents 🤖</h2>
 
 Autonomous and semi-autonomous agents that plan, search, and synthesize.
 
@@ -69,7 +69,7 @@ Autonomous and semi-autonomous agents that plan, search, and synthesize.
 - **[PaperQA2](https://github.com/Future-House/paper-qa)** — Open-source RAG agent for high-accuracy Q&A over scientific PDFs with grounded citations.
 - **[Stanford STORM](https://github.com/stanford-oval/storm)** — LLM knowledge-curation system that researches a topic and writes a Wikipedia-style report with citations.
 
-## Reading & Paper Q&A 📖
+<h2 id="reading--paper-qa">Reading & Paper Q&A 📖</h2>
 
 Chat with PDFs, summarize, and explain dense passages.
 
@@ -86,7 +86,7 @@ Chat with PDFs, summarize, and explain dense passages.
 - **[Scholarcy](https://www.scholarcy.com/)** — Article summarizer that extracts key findings, references, and figures into structured cards.
 - **[SciSummary](https://scisummary.com/)** — Section-by-section AI summaries with figure interpretation and bulk processing.
 
-## Citation & Reference Management 🔗
+<h2 id="citation--reference-management">Citation & Reference Management 🔗</h2>
 
 Collect, organize, and format references.
 
@@ -96,7 +96,7 @@ Collect, organize, and format references.
 - **[Sourcely](https://sourcely.net/)** — Paste text and find supporting academic sources, exporting in APA/MLA/Chicago/IEEE.
 - **[Zotero](https://www.zotero.org/)** — Open-source reference manager with web, desktop, and mobile clients.
 
-## Citation Networks & Visualization 🕸️
+<h2 id="citation-networks--visualization">Citation Networks & Visualization 🕸️</h2>
 
 Citation graphs, topic maps, and clustering.
 
@@ -109,7 +109,7 @@ Citation graphs, topic maps, and clustering.
 - **[Litmaps](https://www.litmaps.com/)** — Citation-network seed maps for literature discovery and ongoing monitoring.
 - **[Open Knowledge Maps](https://openknowledgemaps.org/)** — Nonprofit service producing visual topic maps from a search query.
 
-## Writing & Editing ✍️
+<h2 id="writing--editing">Writing & Editing ✍️</h2>
 
 Drafting, language polishing, and formatting for academic writing.
 
@@ -122,14 +122,14 @@ Drafting, language polishing, and formatting for academic writing.
 - **[Wordvice AI](https://wordvice.ai/)** — Grammar, proofread, paraphrase, and summarize tools tuned for academic writing.
 - **[Writefull](https://writefull.com/)** — Academic writing and editing assistant with Word and Overleaf plugins.
 
-## Data Analysis & Notebooks 📊
+<h2 id="data-analysis--notebooks">Data Analysis & Notebooks 📊</h2>
 
 Tools for analyzing research data with AI assistance.
 
 - **[Hex](https://hex.tech/)** — Collaborative agentic notebooks with AI-assisted SQL, Python, and visualization.
 - **[Rows](https://rows.com/)** — AI-driven spreadsheet that acts as a data analyst for ad-hoc analysis and reporting.
 
-## Transcription & Multimodal 🎙️
+<h2 id="transcription--multimodal">Transcription & Multimodal 🎙️</h2>
 
 Speech-to-text, OCR, and audio/video understanding.
 
@@ -140,7 +140,7 @@ Speech-to-text, OCR, and audio/video understanding.
 - **[tl;dv](https://tldv.io/)** — Auto-joining notetaker for Zoom, Meet, and Teams with summaries in 30+ languages.
 - **[Transkriptor](https://transkriptor.com/)** — AI audio/video transcription in 100+ languages.
 
-## Open Datasets & APIs 🗄️
+<h2 id="open-datasets--apis">Open Datasets & APIs 🗄️</h2>
 
 Open scholarly graphs and corpora for builders and meta-researchers.
 
@@ -148,7 +148,7 @@ Open scholarly graphs and corpora for builders and meta-researchers.
 - **[OpenAlex](https://openalex.org/)** — Free open scholarly index of 313M+ works with a fully open JSON API.
 - **[Semantic Scholar API](https://www.semanticscholar.org/product/api)** — Free academic-graph API covering 234M+ papers, citations, authors, and SPECTER2 embeddings.
 
-## Notes & Knowledge Management 🗒️
+<h2 id="notes--knowledge-management">Notes & Knowledge Management 🗒️</h2>
 
 Capture and query research notes, highlights, and team knowledge.
 
@@ -157,7 +157,7 @@ Capture and query research notes, highlights, and team knowledge.
 - **[Onyx](https://www.onyx.app/)** — Open-source enterprise search and RAG over your team's knowledge (formerly Danswer).
 - **[Reflect](https://reflect.app/)** — Backlinked notes with AI for outlining, summaries, and voice transcription.
 
-## Resources & Trackers 🧭
+<h2 id="resources--trackers">Resources & Trackers 🧭</h2>
 
 Curated guides and trackers cataloguing AI tools and methodologies for research.
 
@@ -167,7 +167,7 @@ Curated guides and trackers cataloguing AI tools and methodologies for research.
 
 ---
 
-## Recently Added (May 2026) 🆕
+<h2 id="recently-added-may-2026">Recently Added (May 2026) 🆕</h2>
 
 The most notable additions in this refresh:
 
@@ -186,7 +186,7 @@ Removed in this refresh: tools that went offline (AnySummary, ProDream, Synthesi
 
 ---
 
-## Contributing 🤝
+<h2 id="contributing">Contributing 🤝</h2>
 
 Contributions are very welcome — this list is only useful if it stays current.
 
@@ -199,6 +199,6 @@ When proposing a tool:
 
 Spotted a dead link or a tool that has pivoted? Open an issue and it'll be removed in the next sweep.
 
-## License 📜
+<h2 id="license">License 📜</h2>
 
 This list is released under the [GNU GPL v3](LICENSE). The individual tools listed remain the property of their respective owners.
