@@ -1,6 +1,6 @@
 <div align="center">
 
-# :brain: Awesome AI Research Tools
+# [AI] Awesome AI Research Tools
 
 **A curated list of AI-powered tools for academic and scientific research — refreshed and link-verified for 2026.**
 
@@ -19,26 +19,26 @@
 
 ## Contents
 
-- [:mag: Literature Review & Discovery](#literature-review--discovery)
-- [:robot: Research Agents](#research-agents)
-- [:book: Reading & Paper Q&A](#reading--paper-qa)
-- [:link: Citation & Reference Management](#citation--reference-management)
-- [:spider_web: Citation Networks & Visualization](#citation-networks--visualization)
-- [:pencil2: Writing & Editing](#writing--editing)
-- [:bar_chart: Data Analysis & Notebooks](#data-analysis--notebooks)
-- [:studio_microphone: Transcription & Multimodal](#transcription--multimodal)
-- [:file_cabinet: Open Datasets & APIs](#open-datasets--apis)
-- [:memo: Notes & Knowledge Management](#notes--knowledge-management)
-- [:compass: Resources & Trackers](#resources--trackers)
-- [:new: Recently Added](#recently-added-may-2026)
-- [:handshake: Contributing](#contributing)
-- [:scroll: License](#license)
+- [DISC - Literature Review & Discovery](#literature-review--discovery)
+- [AGENT - Research Agents](#research-agents)
+- [READ - Reading & Paper Q&A](#reading--paper-qa)
+- [CITE - Citation & Reference Management](#citation--reference-management)
+- [GRAPH - Citation Networks & Visualization](#citation-networks--visualization)
+- [WRITE - Writing & Editing](#writing--editing)
+- [DATA - Data Analysis & Notebooks](#data-analysis--notebooks)
+- [MEDIA - Transcription & Multimodal](#transcription--multimodal)
+- [API - Open Datasets & APIs](#open-datasets--apis)
+- [NOTES - Notes & Knowledge Management](#notes--knowledge-management)
+- [GUIDES - Resources & Trackers](#resources--trackers)
+- [NEW - Recently Added](#recently-added-may-2026)
+- [PR - Contributing](#contributing)
+- [LICENSE - License](#license)
 
 ---
 
 <a id="literature-review--discovery"></a>
 
-## :mag: Literature Review & Discovery
+## [DISC] Literature Review & Discovery
 
 Search engines, databases, and feeds for finding relevant work.
 
@@ -63,7 +63,7 @@ Search engines, databases, and feeds for finding relevant work.
 
 <a id="research-agents"></a>
 
-## :robot: Research Agents
+## [AGENT] Research Agents
 
 Autonomous and semi-autonomous agents that plan, search, and synthesize.
 
@@ -75,7 +75,7 @@ Autonomous and semi-autonomous agents that plan, search, and synthesize.
 
 <a id="reading--paper-qa"></a>
 
-## :book: Reading & Paper Q&A
+## [READ] Reading & Paper Q&A
 
 Chat with PDFs, summarize, and explain dense passages.
 
@@ -94,7 +94,7 @@ Chat with PDFs, summarize, and explain dense passages.
 
 <a id="citation--reference-management"></a>
 
-## :link: Citation & Reference Management
+## [CITE] Citation & Reference Management
 
 Collect, organize, and format references.
 
@@ -106,7 +106,7 @@ Collect, organize, and format references.
 
 <a id="citation-networks--visualization"></a>
 
-## :spider_web: Citation Networks & Visualization
+## [GRAPH] Citation Networks & Visualization
 
 Citation graphs, topic maps, and clustering.
 
@@ -121,7 +121,7 @@ Citation graphs, topic maps, and clustering.
 
 <a id="writing--editing"></a>
 
-## :pencil2: Writing & Editing
+## [WRITE] Writing & Editing
 
 Drafting, language polishing, and formatting for academic writing.
 
@@ -136,7 +136,7 @@ Drafting, language polishing, and formatting for academic writing.
 
 <a id="data-analysis--notebooks"></a>
 
-## :bar_chart: Data Analysis & Notebooks
+## [DATA] Data Analysis & Notebooks
 
 Tools for analyzing research data with AI assistance.
 
@@ -145,7 +145,7 @@ Tools for analyzing research data with AI assistance.
 
 <a id="transcription--multimodal"></a>
 
-## :studio_microphone: Transcription & Multimodal
+## [MEDIA] Transcription & Multimodal
 
 Speech-to-text, OCR, and audio/video understanding.
 
@@ -158,7 +158,7 @@ Speech-to-text, OCR, and audio/video understanding.
 
 <a id="open-datasets--apis"></a>
 
-## :file_cabinet: Open Datasets & APIs
+## [API] Open Datasets & APIs
 
 Open scholarly graphs and corpora for builders and meta-researchers.
 
@@ -168,7 +168,7 @@ Open scholarly graphs and corpora for builders and meta-researchers.
 
 <a id="notes--knowledge-management"></a>
 
-## :memo: Notes & Knowledge Management
+## [NOTES] Notes & Knowledge Management
 
 Capture and query research notes, highlights, and team knowledge.
 
@@ -179,7 +179,7 @@ Capture and query research notes, highlights, and team knowledge.
 
 <a id="resources--trackers"></a>
 
-## :compass: Resources & Trackers
+## [GUIDES] Resources & Trackers
 
 Curated guides and trackers cataloguing AI tools and methodologies for research.
 
@@ -191,7 +191,7 @@ Curated guides and trackers cataloguing AI tools and methodologies for research.
 
 <a id="recently-added-may-2026"></a>
 
-## :new: Recently Added (May 2026)
+## [NEW] Recently Added (May 2026)
 
 The most notable additions in this refresh:
 
@@ -212,7 +212,7 @@ Removed in this refresh: tools that went offline (AnySummary, ProDream, Synthesi
 
 <a id="contributing"></a>
 
-## :handshake: Contributing
+## [PR] Contributing
 
 Contributions are very welcome — this list is only useful if it stays current.
 
@@ -227,6 +227,6 @@ Spotted a dead link or a tool that has pivoted? Open an issue and it'll be remov
 
 <a id="license"></a>
 
-## :scroll: License
+## [LICENSE] License
 
 This list is released under the [GNU GPL v3](LICENSE). The individual tools listed remain the property of their respective owners.
