@@ -5,7 +5,7 @@
 **A curated list of AI-powered tools for academic and scientific research — refreshed and link-verified for 2026.**
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
 [![Last commit](https://img.shields.io/github/last-commit/0x11c11e/awesome-ai-research-tools)](https://github.com/0x11c11e/awesome-ai-research-tools/commits)
 [![Stars](https://img.shields.io/github/stars/0x11c11e/awesome-ai-research-tools?style=social)](https://github.com/0x11c11e/awesome-ai-research-tools/stargazers)
@@ -233,4 +233,4 @@ Spotted a dead link or a tool that has pivoted? Open an issue and it'll be remov
 
 ## License
 
-This list is released under the [GNU GPL v3](LICENSE). The individual tools listed remain the property of their respective owners.
+To the extent possible under law, the maintainers have waived all copyright and related or neighboring rights to this list under [CC0 1.0 Universal](LICENSE). The individual tools listed remain the property of their respective owners.
