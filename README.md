@@ -11,8 +11,6 @@
 [![Stars](https://img.shields.io/github/stars/0x11c11e/awesome-ai-research-tools?style=social)](https://github.com/0x11c11e/awesome-ai-research-tools/stargazers)
 [![Link check](https://github.com/0x11c11e/awesome-ai-research-tools/actions/workflows/link-check.yml/badge.svg)](https://github.com/0x11c11e/awesome-ai-research-tools/actions/workflows/link-check.yml)
 [![Tools](https://img.shields.io/badge/tools-76-2ea44f.svg)](#contents)
-[![Maintained](https://img.shields.io/badge/maintained-yes-brightgreen.svg)](https://github.com/0x11c11e/awesome-ai-research-tools/commits)
-[![Format](https://img.shields.io/badge/format-Markdown-blue.svg)](README.md)
 
 </div>
 
