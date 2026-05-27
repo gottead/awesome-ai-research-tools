@@ -68,7 +68,7 @@ Search engines, databases, and feeds for finding relevant work.
 
 Autonomous and semi-autonomous agents that plan, search, and synthesize.
 
-- [BGPT MCP](https://github.com/connerlambden/bgpt-mcp) - MCP server for searching scientific papers with structured experimental data extracted from full-text studies.
+- [BGPT](https://github.com/connerlambden/bgpt-mcp) - REST/Python and MCP scientific-paper search returning structured full-text evidence: methods, limitations, conflicts of interest, and quality scores.
 - [Edison Kosmos](https://www.edisonscientific.com/) - Multi-agent platform (ex-FutureHouse) running parallel research tasks across literature and datasets.
 - [Iris.ai](https://iris.ai/) - Enterprise agentic RAG platform for ingesting and analyzing scientific documents.
 - [PaperQA2](https://github.com/Future-House/paper-qa) - Open-source RAG agent for high-accuracy Q&A over scientific PDFs with grounded citations.
@@ -200,7 +200,7 @@ The most notable additions in this refresh:
 | Category              | Highlights                                                                             |
 | --------------------- | -------------------------------------------------------------------------------------- |
 | Discovery             | Paperguide, Paper Digest, Perplexity, R Discovery, ResearchBuddy, Semantic Scholar     |
-| Research agents       | Stanford STORM, PaperQA2, Edison Kosmos, Undermind, Ai2 Asta, BGPT MCP                 |
+| Research agents       | Stanford STORM, PaperQA2, Edison Kosmos, Undermind, Ai2 Asta, BGPT                     |
 | Reading & Q&A         | Anara, Humata, Logically (ex-Afforai), Scholarcy, SciSummary, Adobe Acrobat AI         |
 | Citation & references | CiteMe, Sourcely, ChatAcademia                                                         |
 | Open data & APIs      | OpenAlex, Semantic Scholar API, CORE, Lens.org                                         |
