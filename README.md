@@ -230,3 +230,4 @@ When proposing a tool:
 Spotted a dead link or a tool that has pivoted? Open an issue and it'll be removed in the next sweep.
 
 This list is dedicated to the public domain under CC0 1.0 (see the LICENSE file). Tool names and trademarks belong to their respective owners.
+- [Academic-PDF-Renamer](https://github.com/gottead/Academic-PDF-Renamer) - A lightweight Python tool to batch rename academic PDF files based on metadata.
